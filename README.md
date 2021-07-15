@@ -17,5 +17,5 @@ Strona tworzona do testowania nowo poznanych reguł CSS oraz utrwalenia podstawo
 ## ToDo:
 - [x] Storzenie podstatowego template'u
 - [x] Ostylowanie dla urządzeń moblinych
-- [ ] Ostylowanie dla pozostałych urządzeń
+- [x] Ostylowanie dla pozostałych urządzeń
 - [ ] Dalsze rozwijanie (m.in. dodanie animacji, headera oraz footera, itp.)
